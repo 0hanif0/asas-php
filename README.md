@@ -1,9 +1,8 @@
 # ASAS PHP (PHP: Hypertext Preprocessor)
 
-### HTML,CSS,Javascript adalah Client Side
-### PHP adalah Server Side
-### Webserver - XAMPP,Laragon
-
+- HTML, CSS, Javascript adalah Client Side
+- PHP adalah Server Side
+- Webserver - XAMPP,Laragon
 
 ## Variable
 ```php
@@ -26,7 +25,7 @@
 ?>
 ```
 
-## php in html
+## PHP in HTML
 ```php
 <html>
 <h1>Selamat pagi
@@ -47,11 +46,11 @@
 ?>
 ```
 
-### Associative Array
-### Nested Array
+- Associative Array
+  - Nested Array
 
 ## Logic
-### if-elseif-else
+- if-elseif-else
 ```php
 <?php
  if ($nama == 'Hanif') {
@@ -64,7 +63,7 @@
 ?>
 ```
 
-### switch-case
+- switch-case
 ```php
 <?php
  switch($nama) {
@@ -79,7 +78,7 @@
 ```
 
 ## Operator
-### matematik
+- matematik
 ```php
 <?php
  $x = 15 - 4; // tolak, hasil 11
@@ -91,7 +90,7 @@
 ?>
 ```
 
-### assignment
+- assignment
 ```php
 <?php
  $x = 15; // memberi nilai 15
@@ -108,7 +107,7 @@
 ?>
 ```
 
-### pembandingan
+- pembandingan
 ```php
 <?php
 ($x == $y)  // sama dengan
@@ -123,7 +122,7 @@
 ```
 
 ## Loop
-### for
+- for
 ```php
 <?php
  for($x = 0; $x < 10; $x++) {
@@ -132,7 +131,7 @@
 ?>
 ```
 
-### for each
+- for each
 ```php
 <?php
  $kelas = [];
@@ -145,7 +144,7 @@
 ?>
 ```
 
-### while
+- while
 ```php
 <?php
  $a = 0;
@@ -156,7 +155,7 @@
 ?>
 ```
 
-### do while
+- do while
 ```php
 <?php
  $a = 0;
